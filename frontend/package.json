@@ -6,6 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
+    "export": "next export",
+    "build:export": "next build && echo '/* /index.html 200' > out/_redirects",
     "lint": "next lint"
   },
   "dependencies": {
