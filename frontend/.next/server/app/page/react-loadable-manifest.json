@@ -1,0 +1,9 @@
+{
+  "[project]/node_modules/react-json-view/dist/main.js [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/node_modules/react-json-view/dist/main.js [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_react-json-view_dist_main_121eea13.js",
+      "static/chunks/node_modules_react-json-view_dist_main_35917909.js"
+    ]
+  }
+}
